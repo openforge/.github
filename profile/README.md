@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="http://www.openforge.io/">Official Website</a> |
-  <a href="http://www.openforge.io/opportunities">Opportunities</a>
+  <a href="http://www.openforge.io/opportunities">Developer Opportunities</a>
 </p>
 
 <h3 align="center">
