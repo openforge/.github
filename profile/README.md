@@ -3,8 +3,7 @@
 </p>
 <p align="center">
   <a href="http://www.openforge.io/">Official Website</a> |
-  <a href="http://www.openforge.io/opportunities">Opportunities</a> |
-  <a href="https://www.facebook.com/openforgemobile/">Facebook</a>
+  <a href="http://www.openforge.io/opportunities">Opportunities</a>
 </p>
 
 <h3 align="center">
@@ -12,6 +11,6 @@
 </h3>
 
 <p align="center">
-  Working with the latest technologies, designing the best products, and sharing our knowledge with the world wide community.
+  Working with the latest mobile technologies, best practices, and sharing our knowledge with the world wide community.
 </p>
 
