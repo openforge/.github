@@ -7,10 +7,5 @@
 </p>
 
 <h3 align="center">
-  Leading By Example.
+  Mobile Solutions for a Digital World.
 </h3>
-
-<p align="center">
-  Working with the latest mobile technologies, best practices, and sharing our knowledge with the world wide community.
-</p>
-
