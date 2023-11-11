@@ -6,5 +6,5 @@
 </h3>
 <p align="center">
   <a href="http://www.openforge.io/">Official Website</a> |
-  <a href="http://www.openforge.io/opportunities">Developer Opportunities</a>
+  <a href="https://www.youtube.com/@OpenForge/videos">Subscribe to Youtube Channel</a> 
 </p>
